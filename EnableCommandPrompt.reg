@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Command Prompt\command]
+@="C:\\Windows\\System32\\cmd.exe"
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Command Prompt\command]
+@="C:\\Windows\\System32\\cmd.exe"
